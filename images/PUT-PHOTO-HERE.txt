@@ -1,0 +1,2 @@
+Save Ramya's photo as images/ramya.jpg (square or portrait, 800px+ wide).
+Until then the site loads the photo from the Linktree avatar URL automatically.
